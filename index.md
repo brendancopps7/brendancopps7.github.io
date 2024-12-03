@@ -23,12 +23,7 @@ title: Home
 </ul>
 
 <h2>Contact</h2>
-<p>You can reach me at [your contact information].</p>
-
----
-layout: default
-title: Home
----
+<p>You can reach me at brendancopps@gmail.com</p>
 
 <div class="tab">
     <button class="tablinks" onclick="openTab(event, 'Resume')">Resume</button>

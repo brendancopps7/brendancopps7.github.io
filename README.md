@@ -1,4 +1,4 @@
-# Your Name
+# Brendan Coppinger - Data Scientist
 Welcome to my personal portfolio!
 
 ## About Me

@@ -1,9 +1,10 @@
-title: "My Portfolio"
+datitle: "My Portfolio"
 description: "Welcome to my personal portfolio site!"
 url: "https://your-username.github.io"
 theme: jekyll-theme-minimal
-author: "Your Name"
-email: "you@example.com"
+author: "Brendan Coppinger"
+email: "brendancopps@gmail.com"
+logo: /assets/img/logo.png
 
 # Plugins
 plugins:
@@ -16,5 +17,5 @@ exclude:
 
 # Custom Variables
 social_links:
-  github: "https://github.com/your-username"
-  linkedin: "https://www.linkedin.com/in/your-username"
+  github: "https://github.com/brendancopps7"
+  linkedin: "https://www.linkedin.com/in/brendan-coppinger"

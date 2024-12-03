@@ -1,0 +1,20 @@
+title: "My Portfolio"
+description: "Welcome to my personal portfolio site!"
+url: "https://your-username.github.io"
+theme: jekyll-theme-minimal
+author: "Your Name"
+email: "you@example.com"
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclusions
+exclude:
+  - README.md
+
+# Custom Variables
+social_links:
+  github: "https://github.com/your-username"
+  linkedin: "https://www.linkedin.com/in/your-username"

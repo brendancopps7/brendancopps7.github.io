@@ -55,3 +55,36 @@ function openTab(evt, tabName) {
 // Automatically click the default tab 
 document.getElementById("defaultOpen").click();
 </script>
+
+
+<style>
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+.tab button {
+    background-color: inherit;
+    border: none;
+    color: black;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.tab button:hover {
+    background-color: #ddd;
+}
+
+.tab button.active {
+    background-color: #ccc;
+}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+</style>

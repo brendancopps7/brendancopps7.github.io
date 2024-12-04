@@ -15,6 +15,8 @@ title: Home
     <li>Model Finetuning and Deploment</li>
     <li>Economics and Finance</li>
 </ul>
+[Ames Housing Project](ames_housing.md)
+
 <h2>Skills</h2>
 <ul>
     <li>Skill 1</li>
@@ -38,8 +40,8 @@ title: Home
 <div id="Projects" class="tabcontent">
     <h1>My Projects</h1>
     <p>Content for your projects goes here.</p>
-    <a href="ames_housing.md">Ames Housing Data</a>
-    [Ames Housing Project](ames_housing.md)
+    <a href="./ames_housing.md">Ames Housing Data</a>
+    
 </div>
 
 <script>

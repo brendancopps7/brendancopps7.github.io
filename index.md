@@ -26,7 +26,7 @@ title: Home
 <p>You can reach me at brendancopps@gmail.com</p>
 
 <div class="tab">
-    <button class="tablinks" onclick="openTab(event, 'Resume')">Resume</button>
+    <button class="tablinks" onclick="openTab(event, 'Resume')" id="defaultopen">Resume</button>
     <button class="tablinks" onclick="openTab(event, 'Projects')">Projects</button>
 </div>
 
@@ -38,6 +38,9 @@ title: Home
 <div id="Projects" class="tabcontent">
     <h1>My Projects</h1>
     <p>Content for your projects goes here.</p>
+    <ul>
+        <li> [Ames Housing Project](./ames_housing.md). </li>
+    </ul>
 </div>
 
 <script>

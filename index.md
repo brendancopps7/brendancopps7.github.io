@@ -41,6 +41,7 @@ title: Home
 </div>
 
 <script>
+//Create two tabs to flip between resume and project views
 function openTab(evt, tabName) {
     var i, tabcontent, tablinks;
     tabcontent = document.getElementsByClassName("tabcontent");
@@ -54,6 +55,8 @@ function openTab(evt, tabName) {
     document.getElementById(tabName).style.display = "block";
     evt.currentTarget.className += " active";
 }
+// Automatically click the default tab 
+document.getElementById("defaultOpen").click();
 </script>
 
 <style>

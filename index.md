@@ -39,7 +39,7 @@ title: Home
     <h1>My Projects</h1>
     <p>Content for your projects goes here.</p>
     <ul>
-        <li> [Ames Housing Project](./ames_housing.md). </li>
+        <li> [Ames Housing Project](ames_housing.md). </li>
     </ul>
 </div>
 

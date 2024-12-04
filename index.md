@@ -38,9 +38,8 @@ title: Home
 <div id="Projects" class="tabcontent">
     <h1>My Projects</h1>
     <p>Content for your projects goes here.</p>
-    <ul>
-        <li> [Ames Housing Project](ames_housing.md). </li>
-    </ul>
+    
+    [Ames Housing Project](ames_housing.md)
 </div>
 
 <script>

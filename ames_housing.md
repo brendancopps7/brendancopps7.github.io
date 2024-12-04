@@ -22,10 +22,8 @@ title: Home
     <h1>Final Results</h1>
     <h2>How can we define neighborhoods in Ames, Iowa</h2>
     <p>The dataset gives us the info we need</p>
-    
     <h2>What is the best time of year to buy a house?</h2>
     <p>Given an ever increasing housing market, probably the beginning of the year</p>
-
     <h2>Where is the best place to purchase a house in Ames?</h2>
     <p>Wherever you want to live really</p>
 </div>

@@ -15,7 +15,7 @@ title: Home
     <li>Where is the best place to purchase a house in Ames?</li>
 </ul>
 <div class="tab">
-    <button class="tablinks" onclick="openTab(event, 'Results') id="defaultOpen">Results</button>
+    <button class="tablinks" onclick="openTab(event, 'Results')" id="defaultOpen">Results</button>
     <button class="tablinks" onclick="openTab(event, 'Process')">Process</button>
 </div>
 <div id="Results" class="tabcontent">
@@ -28,12 +28,10 @@ title: Home
     <p>Wherever you want to live really</p>
 </div>
 
-<div id="Projects" class="tabcontent">
+<div id="Process" class="tabcontent">
     <h1>My Projects</h1>
     <p>Content for your projects goes here.</p>
-    <ul>
-        <li> [Ames Housing Project](./ames_housing.md). </li>
-    </ul>
+    This is gonna be the space where I have the code that creates the project
 </div>
 <script>
 //Create two tabs to flip between resume and project views

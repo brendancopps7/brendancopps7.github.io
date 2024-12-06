@@ -41,9 +41,12 @@ title: Home
     <h1>My Projects</h1>
     <p>Content for your projects goes here.</p>
     Trying to get the link to work
+    
     [Ames Housing Project](ames_housing.md)
+    
     Maybe surrounding it with normal words?
-    <a href="./ames_housing.md">Ames Housing Data</a>
+    
+    <a href="./ames_housing.html>Ames Housing Data</a>
     
 </div>
 

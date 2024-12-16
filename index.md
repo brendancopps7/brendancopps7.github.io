@@ -28,7 +28,7 @@ title: Home
 <p>You can reach me at brendancopps@gmail.com</p>
 
 <div class="tab">
-    <button class="tablinks" onclick="openTab(event, 'Resume')" id="defaultopen">Resume</button>
+    <button class="tablinks" onclick="openTab(event, 'Resume')" id="defaultOpen">Resume</button>
     <button class="tablinks" onclick="openTab(event, 'Projects')">Projects</button>
 </div>
 

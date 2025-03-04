@@ -15,7 +15,6 @@ title: Home
     <li>Model Finetuning and Deploment</li>
     <li>Economics and Finance</li>
 </ul>
-[Ames Housing Project](ames_housing.md)
 
 <h2>Skills</h2>
 <ul>
@@ -36,23 +35,14 @@ title: Home
     <h1>My Resume</h1>
     <p>Content for your resume goes here.</p>
 
-    <a href = "https://www.google.com/">Google</a>
-    Updated
+    Links Work
 </div>
 
 <div id="Projects" class="tabcontent">
     <h1>My Projects</h1>
     <p>Content for your projects goes here.</p>
-    Trying to get the link to work
     
-    [Ames Housing Project](ames_housing.md)
-    
-    Maybe surrounding it with normal words?
-    
-    This is a link to my <a href = "ames_housing.html">Ames Housing Project</a> site. Hopefully that works
-
-    This is the identical Google link as the front page:
-    <a href = "https://www.google.com/">Google</a>
+    My <a href = "ames_housing.html">Ames Housing Project</a> uses the popular Ames housing dataset to answer a couple of questions about neighborhoods, rising rents, and the most valuable features of a property.
 
     We can hope
     

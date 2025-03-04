@@ -35,6 +35,9 @@ title: Home
 <div id="Resume" class="tabcontent">
     <h1>My Resume</h1>
     <p>Content for your resume goes here.</p>
+
+    <a href = "https://www.google.com/">Google</a>
+    Maybe Links only work when they're on the first tab?
 </div>
 
 <div id="Projects" class="tabcontent">

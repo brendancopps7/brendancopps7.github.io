@@ -37,7 +37,7 @@ title: Home
     <p>Content for your resume goes here.</p>
 
     <a href = "https://www.google.com/">Google</a>
-    Update Check
+    Updated
 </div>
 
 <div id="Projects" class="tabcontent">
@@ -49,7 +49,7 @@ title: Home
     
     Maybe surrounding it with normal words?
     
-    This is a link to my <a href="./ames_housing.html>Ames Housing Data</a> site. Hopefully that works
+    This is a link to my <a href = "ames_housing.md">Google</a> site. Hopefully that works
 
     This is the identical Google link as the front page:
     <a href = "https://www.google.com/">Google</a>

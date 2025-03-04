@@ -46,7 +46,7 @@ title: Home
     
     Maybe surrounding it with normal words?
     
-    <a href="./ames_housing.html>Ames Housing Data</a>
+    This is a link to my <a href="./ames_housing.html>Ames Housing Data</a> site. Hopefully that works
     
 </div>
 

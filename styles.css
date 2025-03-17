@@ -24,3 +24,7 @@
     border: 1px solid #ccc;
     border-top: none;
 }
+
+li + li {
+  margin-top: 10px;
+}
